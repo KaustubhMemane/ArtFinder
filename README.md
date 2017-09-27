@@ -24,7 +24,8 @@ This sample uses the Gradle build system. To build this project, use the "gradle
 ---------------
 ![screener_1506535941222 1](https://user-images.githubusercontent.com/25395705/30930077-84093f7c-a38e-11e7-8ec0-5a1d01c74798.png)
 ![screener_1506536001432](https://user-images.githubusercontent.com/25395705/30930091-8c64f7d8-a38e-11e7-899a-7aef6c04ebea.png)
-![screener_1506535941222](https://user-images.githubusercontent.com/25395705/30930098-93d77d24-a38e-11e7-912a-649cb7174860.png)
+![screener_1506536048207](https://user-images.githubusercontent.com/25395705/30930239-15d38f48-a38f-11e7-9bfa-87dcd708f1b3.png)
+
 
 
 **Find More Information on**
