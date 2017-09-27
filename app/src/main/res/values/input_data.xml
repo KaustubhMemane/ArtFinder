@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="artistNamesSuggestion">
+        <item>Maria Becket</item>
+        <item>Hans von Aachen</item>
+        <item>Alvar Aalto</item>
+        <item>Magdalena Abakanowicz</item>
+        <item>Masseot Abaquesne</item>
+        <item>Riza-i Abbasi</item>
+        <item>Louise Abbema</item>
+        <item>Edwin Austin Abbey</item>
+        <item>Berenice Abbott</item>
+        <item>John White Abbott</item>
+        <item>Lemuel Francis Abbott</item>
+        <item>Abel de Pujol</item>
+        <item>Sigmund Abeles</item>
+        <item>Gertrude Abercrombie</item>
+        <item>Tony Abeyta</item>
+        <item>Nicolai Abildgaard</item>
+        <item>Ivor Abrahams</item>
+        <item>Mark Abrahamson</item>
+        <item>Marina Abramovic</item>
+        <item>Albert Abramowitz</item>
+        <item>John Absolon</item>
+        <item>Tomma Abts</item>
+        <item>Carla Accardi</item>
+        <item>Vito Acconci</item>
+        <item>Andreas Achenbach</item>
+        <item>Oswald Achenbach</item>
+        <item>Chris Achilleos</item>
+        <item>The Achilles Painter</item>
+        <item>Franz Ackermann</item>
+        <item>Max Ackermann</item>
+        <item>Roger Ackling</item>
+        <item>Lambert-Sigisbert Adam</item>
+        <item>Nicolas-Sebastien Adam</item>
+        <item>Robert Adam</item>
+        <item>Valerio Adami</item>
+        <item>Ansel Adams</item>
+        <item>Clinton Adams</item>
+        <item>Herbert Adams</item>
+        <item>John Ottis Adams</item>
+        <item>John Wolcott Adams</item>
+        <item>Robert Adams</item>
+        <item>Wayman Adams</item>
+        <item>Robert Adams 1937</item>
+        <item>Robert Adamson</item>
+        <item>Louis-Emile Adan</item>
+        <item>Bas Jan Ader</item>
+        <item>Agbonbiofe Adeshina</item>
+        <item>Jankel Adler</item>
+        <item>George Adomeit</item>
+        <item>Alexander Adriaenssen</item>
+        <item>Pieter Coecke van Aelst</item>
+        <item>Willem van Aelst</item>
+        <item>Pieter Aertsen</item>
+        <item>The Affecter</item>
+        <item>Yaacov Agam</item>
+        <item>Eileen Agar</item>
+        <item>Jacques-Laurent Agasse</item>
+        <item>Knud Agger</item>
+        <item>Agostino di Duccio</item>
+        <item>Agostino di Giovanni</item>
+        <item>Agostino Veneziano</item>
+        <item>Joaquin Agrasot y Juan</item>
+        <item>John Ahearn</item>
+        <item>Eija-Liisa Ahtila</item>
+        <item>Ai Weiwei</item>
+        <item>William Aikman</item>
+        <item>Mario Airo</item>
+        <item>Craigie Aitchison</item>
+        <item>Doug Aitken</item>
+        <item>Ivan Aivazovsky</item>
+        <item>Giuseppe Ajmone</item>
+        <item>Kinji Akagawa</item>
+        <item>Carl Ethan Akeley</item>
+        <item>Benjamin Paul Akers</item>
+        <item>Manasie Akpaliapik</item>
+        <item>Francesco Albani</item>
+        <item>Giovanni Alberghetti I</item>
+        <item>Anni Albers</item>
+        <item>Josef Albers</item>
+        <item>Cherubino Alberti</item>
+        <item>Giovanni Alberti</item>
+        <item>Leon Baptista Alberti</item>
+        <item>Mariotto Albertinelli</item>
+        <item>Ivan Albright</item>
+        <item>Conrad Albrizio</item>
+        <item>Heinrich Aldegrever</item>
+        <item>Pierre Alechinsky</item>
+        <item>William Van Alen</item>
+        <item>Francis Alexander</item>
+        <item>John White Alexander</item>
+        <item>Peter Alexander</item>
+        <item>William Alexander</item>
+        <item>Carlos Alfonzo</item>
+        <item>Alessandro Algardi</item>
+        <item>Mihr Ali</item>
+        <item>Ali ibn Muhhamad</item>
+        <item>Giuseppe Alinari</item>
+        <item>Henry Thomas Alken</item>
+        <item>Samuel Alken Sr.</item>
+        <item>David Allan</item>
+        <item>William Allan</item>
+        <item>Christophe-Gabriel Allegrain</item>
+        <item>Etienne Allegrain</item>
+        <item>Gabriel Allegrain</item>
+        <item>Anne Allen</item>
+        <item>Anne Huntington Allen</item>
+        <item>Douglas Allen</item>
+        <item>Greta Allen</item>
+        <item>Mary Cecil Allen</item>
+        <item>Terry Allen</item>
+        <item>Helen Allingham</item>
+        <item>Edward Allington</item>
+        <item>Thomas Allom</item>
+        <item>Jennifer Allora</item>
+        <item>Alessandro Allori</item>
+        <item>Cristofano Allori</item>
+        <item>Washington Allston</item>
+        <item>Laura Alma-Tadema</item>
+        <item>Sir Lawrence Alma</item>
+        <item>Darren Almond</item>
+        <item>Peder Als</item>
+        <item>Denys van Alsloot</item>
+        <item>Charles Alston</item>
+        <item>Jakob Alt</item>
+        <item>Otmar Alt</item>
+        <item>Rudolf von Alt</item>
+        <item>Albrecht Altdorfer</item>
+        <item>Mathias Alten</item>
+        <item>Pawel Althamer</item>
+        <item>Kai Althoff</item>
+        <item>Altichiero</item>
+        <item>Natan Altman</item>
+        <item>John Altoon</item>
+        <item>Aby Altson</item>
+        <item>Mabel Alvarez</item>
+        <item>Manuel Alvarez Bravo</item>
+        <item>Francis Alys</item>
+        <item>Giovanni Antonio Amadeo</item>
+        <item>Edmond-Francois Aman</item>
+        <item>Nicholas Amantea</item>
+        <item>Antonio Henrique Amaral</item>
+        <item>Tarsila do Amaral</item>
+        <item>The Amasis Painter</item>
+        <item>Eugene-Emmanuel Amaury-Duval</item>
+        <item>Christoph Amberger</item>
+        <item>Gregory Amenoff</item>
+        <item>Ghada Amer</item>
+        <item>Mark Amerika</item>
+        <item>Friedrich von Amerling</item>
+        <item>Ezra Ames</item>
+        <item>Giacomo Amiconi</item>
+        <item>Cuno Amiet</item>
+        <item>Jost Amman</item>
+        <item>Bartolommeo Ammanati</item>
+        <item>Carlos Amorales</item>
+        <item>Emma Amos</item>
+        <item>Jan van Amstel</item>
+
+    </string-array>
+</resources>
